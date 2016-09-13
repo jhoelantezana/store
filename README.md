@@ -1,2 +1,2 @@
 # store
-creando una tienda sin prameworks
+creando una tienda sin frameworks
